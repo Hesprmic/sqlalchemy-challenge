@@ -1,2 +1,3 @@
 # sqlalchemy-challenge
 10th homework assignment
+First I used Jupyter Notebook to look at the sqlite file for climate data for Hawaii and do the analysis for the module 10 homework. I did precipitation and station analysis to the best of my ability. Then I did part 2, which was using VS code to use sqlalchemy to create an Flask API and do a similar analysis on the Hawaii weather data. I worked with classmates Brandon, Matthew, and Samantha on this and also had considerable help from Tyler as well. I liked how challenging this homework was and had us use our knowledge of many of our previous coding knoweldge combined.
